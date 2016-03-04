@@ -34,5 +34,4 @@ public class TestOperators {
         assertEquals(4, mul, 0.00001);
     }
     
-    
 }
